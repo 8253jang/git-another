@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings
+bin
+readme.txt
+
+# *.c
+# log/**/debug.log
