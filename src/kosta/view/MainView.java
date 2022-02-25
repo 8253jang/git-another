@@ -3,7 +3,7 @@ package kosta.view;
 public class MainView {
 
 	public static void main(String[] args) {
-		String addr="서울";
+		String addr="제주도";
 
 	}
 
