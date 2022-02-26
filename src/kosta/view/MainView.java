@@ -6,5 +6,10 @@ public class MainView {
 		String addr="제주도";
 
 	}
+	
+	// B.add-coach 브랜치
+	public void leopardsManagerInfo() {
+		String coach ="Oscar";
+	}
 
 }
