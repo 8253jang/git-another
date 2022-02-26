@@ -1,7 +1,7 @@
 package kosta.controller;
 
 public class TestController {
-   String message="¾È³ç";
+   String message="Knnetch";
    public void insert() {
 	   
    }
