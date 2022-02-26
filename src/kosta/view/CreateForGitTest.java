@@ -4,4 +4,6 @@ public class CreateForGitTest {
   public void test() {
 	  
   }
+  public void insert(){}
+	
 }
