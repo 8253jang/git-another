@@ -3,7 +3,7 @@ package kosta.controller;
 public class TestController {
 
 
-   String message="Brenda";
+   String message="Tyler";
 
 
    public void insert() {
