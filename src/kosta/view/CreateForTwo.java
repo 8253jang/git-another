@@ -1,5 +1,5 @@
 package kosta.view;
 
 public class CreateForTwo {
-    public void test(){}
+    public void remoteUpdate(){}
 }
